@@ -1,0 +1,87 @@
+{
+  "Movement + tissue re-entry": {
+    "Monday": [
+      "Warm-up + Sloth \u2014 10\u201315 min",
+      "Quiet Feet \u2014 3 problems \u00d7 1\u20132",
+      "One Touch \u2014 3 problems \u00d7 1\u20132",
+      "Flag Everything \u2014 3 problems \u00d7 1",
+      "Transfer \u2014 4\u20136 problems, 6\u201310 quality attempts"
+    ],
+    "Wednesday": [
+      "Sloth \u2014 3 problems \u00d7 1\u20132",
+      "One-leg climbing \u2014 2\u20133/side",
+      "High-step/drop-knee transfer \u2014 3\u20135",
+      "Downclimb \u2014 3 up + down",
+      "Transfer \u2014 4\u20136 problems, RPE 6\u20138"
+    ]
+  },
+  "Limit strength + positional strength": {
+    "Monday": [
+      "Hover Hand \u2014 3 moderate problems \u00d7 1",
+      "Lock-off problem \u2014 3 problems \u00d7 2",
+      "Limit bouldering \u2014 3 problems \u00d7 3\u20135 serious attempts; 3\u20135 min rest",
+      "Easy reset \u2014 2\u20133 problems"
+    ],
+    "Wednesday": [
+      "Wide reach stabilization \u2014 3 \u00d7 1\u20132",
+      "High-step/drop-knee \u2014 3\u20134 \u00d7 1\u20132",
+      "Offset lock-off sequences \u2014 3 \u00d7 2/side",
+      "Transfer \u2014 3\u20135 problems, 5\u20138 attempts"
+    ]
+  },
+  "Power + contact strength": {
+    "Monday": [
+      "Deadpoint targets \u2014 3 targets \u00d7 3",
+      "Dyno/coordination \u2014 3\u20134 \u00d7 2\u20134",
+      "Limit power \u2014 2\u20133 \u00d7 3\u20134",
+      "Easy finish \u2014 2\u20133"
+    ],
+    "Wednesday": [
+      "Dynamic high-step/deadpoint \u2014 3 \u00d7 2\u20133",
+      "Fast wide/offset lock-off acquisition \u2014 3 \u00d7 2\u20133/side",
+      "Limit power \u2014 3 \u00d7 3\u20135",
+      "Campus lunges OR bumps \u2014 3\u20134 sets",
+      "Stop after 2 consecutive attempts with clear speed/contact decline"
+    ]
+  },
+  "Power endurance": {
+    "Monday": [
+      "Power primer \u2014 2 hard boulders \u00d7 2",
+      "8\u201312 moderate moves \u2192 2\u20134 hard moves \u2014 3\u20134 sequences",
+      "Linked bouldering ~15\u201320 moves \u2014 2 links \u00d7 2 rounds"
+    ],
+    "Wednesday": [
+      "4\u00d74 OR route intervals \u2014 choose one protocol",
+      "Crux-after-pump \u2014 2\u20133 sequences \u00d7 1\u20132",
+      "Technical transfer \u2014 2\u20133"
+    ]
+  },
+  "Performance + projecting": {
+    "Monday": [
+      "Warm-up + 1 limiter drill",
+      "Crux sections \u2014 2\u20133 \u00d7 2\u20134",
+      "Serious project burns \u2014 3\u20135 total",
+      "Optional limiter drill"
+    ],
+    "Wednesday": [
+      "Pause & Plan \u2014 2 moderate routes/circuits",
+      "Project burns \u2014 2\u20134 OR 2\u20133 long links",
+      "Late-crux rehearsal \u2014 1\u20132 sequences, 20\u201330 moves with target crux late"
+    ]
+  },
+  "Integrated outdoor + weakness cycle": {
+    "Monday": [
+      "Choose one emphasis for 2\u20133 weeks: Technique / Limit strength / Power / Wide-offset positional",
+      "Technique: 4\u20136 moderate problems with Quiet Feet + One Touch + position constraint",
+      "Limit: 2\u20133 hard problems \u00d7 3\u20135 serious attempts",
+      "Power: 2\u20133 dynamic problems \u00d7 3\u20134 + 2\u20133 deadpoint targets"
+    ],
+    "Wednesday": [
+      "Choose a complementary emphasis",
+      "Technique: 2\u20133 routes or 4\u20136 problems RPE 5\u20137",
+      "PE: 2\u20133 short 4\u00d74/route-interval rounds",
+      "Project rehearsal: 2\u20134 burns or 2\u20133 long links",
+      "Recovery skill: 30\u201345 min easy movement"
+    ]
+  }
+}

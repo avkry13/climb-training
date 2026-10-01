@@ -1,0 +1,1 @@
+Upload these four files to a public GitHub repository. In Settings > Pages, choose Deploy from a branch, main, /(root). Workout history is stored locally in your browser; use Export backup periodically.
